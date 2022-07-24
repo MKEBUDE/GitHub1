@@ -8,6 +8,8 @@ int i=10 ;
  while(i<=25){
 System.out.println(i);
      i+=3;
+
+     //yemekleri doorman aldi ordan yemeginizi alin
  }
     }
 }
